@@ -3,7 +3,7 @@ Type: Package
 Title: Comparing the difference of adjusted restricted mean time lost
         (aRMTLd) and dynamic aRMTLd curves under competing risks
 Version: 0.1.0
-Author: c(person("Chengfeng", "Zhang", email = "2714311212@qq.com", role = "aut"),
+Author: c(person("Haoning", "Shen", email = "13537707429@163.com", role = "aut"),
         person("Zheng", "Chen", email = "zheng-chen@hotmail.com", role = "cre"),
         person("Yawen", "Hou", role = "ctb"))
 Maintainer: Zheng Chen <zheng-chen@hotmail.com>
@@ -17,3 +17,4 @@ RoxygenNote: 7.2.1
 Imports: tcltk
 NeedsCompilation: no
 Packaged: 2024-06-06 02:59:55 UTC; shn
+
